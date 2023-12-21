@@ -10,10 +10,8 @@ export const Bio = {
     github: "https://github.com/JigarGokani",
     resume:
       "https://drive.google.com/file/d/10ZBc9_FG1dvF1mRIPHJi7Ap8kU0GfTGc/view?usp=drive_link",
-    linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-    twitter: "https://twitter.com/RishavChanda",
-    insta: "https://www.instagram.com/rishav_chanda/",
-    facebook: "https://www.facebook.com/rishav.chanda.165/",
+    linkedin: "https://www.linkedin.com/in/jigar-gokani/",
+  
   };
   
   export const skills = [
