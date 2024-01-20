@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/JigarGokani",
     resume:
-      "https://drive.google.com/file/d/10ZBc9_FG1dvF1mRIPHJi7Ap8kU0GfTGc/view?usp=drive_link",
+      "https://drive.google.com/file/d/1poT1k7aSXFAdgBqGwSza05gvLdNkt0ax/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/jigar-gokani/",
   
   };
@@ -33,6 +33,22 @@ export const Bio = {
             image:
               "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
           },
+        
+        {
+          name: "JavaScript",
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+        },
+        {
+          name: "TypeScript",
+          image:
+            "https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png",
+        },
+        {
+          name: "SCSS",
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png",
+        },
         {
           name: "HTML",
           image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -41,11 +57,6 @@ export const Bio = {
           name: "CSS",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
-        },
-        {
-          name: "JavaScript",
-          image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
         },
         {
           name: "Bootstrap",
@@ -57,6 +68,8 @@ export const Bio = {
           image:
             "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
         },
+        ,
+
       ],
     },
     {
@@ -92,8 +105,7 @@ export const Bio = {
       skills: [
         {
           name: "Git",
-          image:
-            "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          image:"https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
         },
         {
           name: "GitHub",
@@ -106,14 +118,8 @@ export const Bio = {
             "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
         },
         {
-          name: "VS Code",
-          image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
-        },
-        {
           name: "Postman",
-          image:
-            "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          image:"https://cdn.worldvectorlogo.com/logos/postman.svg"
         },
         {
             name: "MongoDB Atlas",
@@ -122,11 +128,12 @@ export const Bio = {
         },
         {
           name: "Figma",
-          image:
-            "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          image:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"
         },
-
-      ],
+        {
+          name: "JWT",
+          image:"        https://media.licdn.com/dms/image/C4D12AQHfsPm-B3zuBA/article-cover_image-shrink_720_1280/0/1595228957134?e=2147483647&v=beta&t=isV1Z1zkPQWYV9yt3DO5W2yEfsKvAictxC5oY_l357s "
+    }],
     },
   ];
   
@@ -136,7 +143,7 @@ export const Bio = {
       img:"https://healtheries.co.nz/images/h-with-leaf.svg",
       role: "MERN Stack Developer Intern",
       company: "Healthires",
-      date: "June 2023 - Sep 2023",
+      date: "June 2023 - Dec 2023",
       desc:"Enhanced app security with improved authentication and authorization. Developed an intuitive admin panel for streamlined tasks. Integrated Razorpay for a seamless and secure payment experience.",
       skills: [
         "ReactJS",
@@ -148,7 +155,7 @@ export const Bio = {
         "CSS",
         "JavaScript",
       ],
-      doc: "https://res.cloudinary.com/dbnkus2ij/image/upload/v1703172383/JigarFolder/zx71sioa7dxik7h66idt.png",
+      doc: "https://res.cloudinary.com/dbnkus2ij/image/upload/v1705773895/Jigar_s_certificate_o8qe0j.jpg",
     },
     
     {
