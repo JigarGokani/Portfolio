@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/JigarGokani",
     resume:
-      "https://drive.google.com/file/d/1poT1k7aSXFAdgBqGwSza05gvLdNkt0ax/view?usp=sharing",
+      "https://drive.google.com/file/d/1atQU2Yl2WAGVtKBpps6WDlST1__ObQHp/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/jigar-gokani/",
   
   };
@@ -226,14 +226,14 @@ export const Bio = {
     {
       id: 1,
       title: "Ecommerce",
-      date: "Sep 2023 - Oct 2023",
-      description:"Built a cutting-edge e-commerce platform with React 18, Tailwind CSS, and Redux Toolkit for a seamless frontend. Utilized Express, MongoDB, and Mongoose for a robust backend, implementing advanced Mongoose queries for sorting, filtering, and pagination. Developed secure cart and checkout processes, an intuitive Admin panel for efficient order and product management. Integrated Passport JS for authentication, email notifications, and Stripe for secure payment processing.",
+      date: "Dec 2023 - Jan 2024",
+      description:"Engineered a cutting-edge e-commerce platform with secure cart, checkout processes, and an efficient Admin panel. Achieved an 80% increase in data retrieval speed through Node-caching for optimized APIs. Used TypeScript and SASS for code quality, and RTK Query for streamlined data fetching. Integrated Firebase for security and user authentication, alongside Redux Toolkit for state management, and Stripe for seamless payment processing.",
       image:
-        "https://res.cloudinary.com/dbnkus2ij/image/upload/v1703183072/JigarFolder/stixoachkdu8czkijkvk.jpg",
-      tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux", "Javascript","Tailwind CSS"],
+        "https://res.cloudinary.com/dbnkus2ij/image/upload/v1707953092/WhatsApp_Image_2024-02-15_at_04.48.10_nq7nug.jpg",
+      tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux-Toolkit", "TypeScript","Sass"],
       category: "web app",
-      github: "https://github.com/JigarGokani/E-commerce",
-      webapp: "https://jigar-reactjs-ecommerce.netlify.app/",
+      github: "https://github.com/JigarGokani/MERN-TS--Ecommerce",
+      webapp: "https://ecommerce-jigar.vercel.app/",
 
     },
     {
