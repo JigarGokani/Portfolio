@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/JigarGokani",
     resume:
-      "https://drive.google.com/file/d/1atQU2Yl2WAGVtKBpps6WDlST1__ObQHp/view?usp=sharing",
+      "https://drive.google.com/file/d/1KM4ic7YlZjiox6wenc4B-y459iIqATfU/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/jigar-gokani/",
   
   };
@@ -22,6 +22,11 @@ export const Bio = {
           name: "React Js",
           image:
             "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+        },
+        {
+          name: "Next.js",
+          image:
+            "https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png",
         },
         {
           name: "Redux",
@@ -113,6 +118,11 @@ export const Bio = {
             "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
         },
         {
+          name: "Socket.IO",
+          image:
+            "https://avatars.githubusercontent.com/u/10566080?s=200&v=",
+        },
+        {
           name: "Netlify",
           image:
             "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
@@ -140,8 +150,27 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      img:"https://healtheries.co.nz/images/h-with-leaf.svg",
+      img:"https://media.licdn.com/dms/image/C4E0BAQHjo2PsHZrQMg/company-logo_100_100/0/1630627539067?e=1721865600&v=beta&t=CA5iiSRltxlEf4FS7QwgZWkV9GJz8tSaXLb-NnafTCc",
       role: "MERN Stack Developer Intern",
+      company: "TechNode",
+      date: "Jan 2024 - Mar 2024",
+      desc:"I used Svelte.js to enhance frontend interactivity and performance with specific components and features. I led the migration of our company website from PHP to the MERN stack, utilizing React.js for frontend development, Node.js/Express.js for backend services, and MongoDB for database management. I also implemented impactful UI/UX improvements to enhance user experience and engagement.",
+      skills: [
+        "ReactJS",
+        "Svelte.js",
+        "NodeJs",
+        "MongoDB",
+        "ExpressJS",
+        "HTML",
+        "Tailwind CSS",
+        "Typescript",
+      ],
+      doc: "https://res.cloudinary.com/dbnkus2ij/image/upload/v1713696915/Internship_Completion_Certificate_w9smku.png",
+    },
+    {
+      id: 1,
+      img:"https://healtheries.co.nz/images/h-with-leaf.svg",
+      role: "Full Stack Developer Intern",
       company: "Healthires",
       date: "June 2023 - Dec 2023",
       desc:"Enhanced app security with improved authentication and authorization. Developed an intuitive admin panel for streamlined tasks. Integrated Razorpay for a seamless and secure payment experience.",
@@ -158,11 +187,12 @@ export const Bio = {
       doc: "https://res.cloudinary.com/dbnkus2ij/image/upload/v1705773895/Jigar_s_certificate_o8qe0j.jpg",
     },
     
+    
     {
-      id: 1,
+      id: 2,
       img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
       role: "Open Source Contributor ",
-      company: "GirlScript Summer of Code",
+      company: "Script Summer of Code",
       date: "May 2023 - June 2023",
       desc: "Contributing to different open-source projects and learn from industry experts",
     },
@@ -238,6 +268,29 @@ export const Bio = {
     },
     {
       id: 2,
+      title: "Chatify - ChatApp",
+      date: "Jan 2023 - Mar 2023",
+      description:"I created a MERN-based chat app with real-time updates using Socket.io. It includes efficient infinite scrolling, Material-UI for design, and Framer Motion for animations. Users can create groups with 3 to 100 members, share files instantly with real-time notifications, and access dashboard insights such as 7-day message trends and real-time user tracking.",
+      image:
+        "https://res.cloudinary.com/dbnkus2ij/image/upload/v1713697737/WhatsApp_Image_2024-04-20_at_13.01.08_v7hvt5.jpg",
+      tags: [
+        "Socket.io",
+        "Framer Motion",
+        "Material UI",
+        "React Js",
+        "MongoDb",
+        "Node Js",
+        "Express Js",
+        "Redux Toolkit",
+        "Javascript"
+
+      ],
+      category: "web app",
+      github: "https://github.com/JigarGokani/chatApp-Chatify",
+      webapp: "https://chat-app-chatify.vercel.app/",
+    },
+    {
+      id: 3,
       title: "Weather App",
       date: "Sep 2023",
       description:
@@ -257,7 +310,7 @@ export const Bio = {
       webapp: "https://jigar-weather.netlify.app/",
     },
     {
-      id: 3,
+      id: 4,
       title: "Razorpay Clone",
       date: "Aug 2023",
       description:
@@ -278,7 +331,7 @@ export const Bio = {
     },
     
     {
-      id: 4,
+      id: 5,
       title: "Password Generator",
       date: "July 2023",
       description:"Collaborated on a JavaScript-driven feature for dynamically generating passwords with adjustable length and complexity. Integrated checkboxes for uppercase, lowercase, numbers, and symbols, enabling user customization. Implemented real-time password strength calculation for immediate security feedback.",
@@ -289,7 +342,7 @@ export const Bio = {
       webapp: "https://jigar-password-generator.netlify.app/",
     },
     {
-      id: 5,
+      id: 6,
       title: "Discord Clone",
       date: "July 2023",
       description:
@@ -302,7 +355,7 @@ export const Bio = {
       webapp: "https://main--jigar-discord-clone.netlify.app/",
     },
     {
-      id: 6,
+      id: 7,
       title: "Parallax Effect",
       date: "Jun 2023",
       description:"Implemented the Parallax Effect through strategic z-index manipulation, elevating the design with sophistication. The result is a seamless scrolling experience, creating depth as background and foreground elements move independently. Ensured cross-browser compatibility for a consistent and visually striking experience across platforms.",
